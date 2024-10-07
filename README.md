@@ -42,5 +42,9 @@ Le projet est organisé en plusieurs répertoires pour une meilleure gestion du 
 
 - **dao/** : Le répertoire `dao` contient les classes Java utilisées pour accéder et manipuler les données des pizzas. Le fichier `IDao.java` définit les interfaces pour les opérations CRUD (Create, Read, Update, Delete).
 
+- ## Démonstration Vidéo
+
+[![Démonstration vidéo du projet Gestion de Pizza]](https://www.youtube.com/watch?v=ID_DE_LA_VIDEO)
+
 - **service/** : Ce répertoire contient la logique métier principale de l'application, notamment les services pour gérer les pizzas, comme `ProduitService`, qui gère l'ajout, la suppression, et la recherche des pizzas.
 
