@@ -47,6 +47,6 @@ Le projet est organisé en plusieurs répertoires pour une meilleure gestion du 
 - 
 - ## Démonstration Vidéo
 
-[[Démonstration vidéo du projet Gestion de Pizza]](https://www.youtube.com/watch?v=ID_DE_LA_VIDEO)
+[[Démonstration vidéo du projet Gestion de Pizza]]([https://www.youtube.com/watch?v=ID_DE_LA_VIDEO](https://github.com/user-attachments/assets/69c6a461-4f94-4172-b461-5c19ebb97a67))
 
 
