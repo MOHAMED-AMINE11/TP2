@@ -27,13 +27,10 @@ Le projet est organisé en plusieurs répertoires pour une meilleure gestion du 
     - `res/layout` : Les fichiers XML associés aux éléments des listes.
   - **classes/** : Contient les modèles de données utilisés dans l'application.
     - `java` : Les classes Java représentant les données, comme `Produit` pour les pizzas.
-    - `res/layout` : Fichiers XML associés aux modèles de données, s'il y en a.
   - **dao/** : Contient la gestion des données (Data Access Objects).
     - `java` : Les classes Java pour l'accès aux données (DAO).
-    - `res/layout` : Layout XML, s'il y en a, associés à la gestion des données.
   - **service/** : Contient la logique métier et les services de l'application.
     - `java` : Les classes Java pour la gestion des services comme `ProduitService`.
-    - `res/layout` : Layout XML pour la gestion des services, s'il y en a.
 
 ### Détails des Répertoires
 
@@ -47,16 +44,3 @@ Le projet est organisé en plusieurs répertoires pour une meilleure gestion du 
 
 - **service/** : Ce répertoire contient la logique métier principale de l'application, notamment les services pour gérer les pizzas, comme `ProduitService`, qui gère l'ajout, la suppression, et la recherche des pizzas.
 
-## Installation et Exécution
-
-### Prérequis
-
-- **Android Studio** : Assurez-vous d'avoir Android Studio installé sur votre machine.
-- **SDK Android** : Les SDK nécessaires pour l'exécution d'une application Android.
-
-### Étapes pour exécuter le projet
-
-1. Clonez ce repository sur votre machine locale :
-
-   ```bash
-   git clone https://github.com/votre-nom-utilisateur/Tp2.git
